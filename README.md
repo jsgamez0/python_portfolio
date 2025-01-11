@@ -57,7 +57,8 @@ Randomized pokemon battles that have 2 outcomes, winning or losing. Chances of w
 The player can choose to spend the day resting. Resting displays the pokemon's name, picture, and level. 
 #### _Moods_
 The pokemon's mood can change while training or from the outcomes of battles. Pokemon's mood changes the odds that they will win battles, either increasing, decreasing, or keeping the odds of winning even. 
-Pokemon moods can be:
+#####
+Pokemon moods are:
 - Happy
 - Neutral
 - Unhappy
