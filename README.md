@@ -3,7 +3,7 @@ A repository containing 5 of my python projects during semester 1.
 
 ## Guessing Game
 ### Summary:
-In this guessing game, players will have 3 chances to guess a random number. 
+In this guessing game, players will have 3 chances to guess a random number. Players guess a number from 1 to 10.
 ### Key Features:
 #### _Limited Guesses_
 Players are limited to 3 guesses to get the correct number before they lose.
@@ -16,7 +16,7 @@ Players can choose to continue playing after their game ends or can choose to qu
 
 ## Madlibs Game
 ### Summary:
-An interactive story where players input words that fall into specific categories and get to read a story made with those words.
+An interactive story where players input words that fall into specific categories and get to read a story made with those words. Categories are animals, names, adjectives, places, and an item.
 ### Key Features:
 #### _User Inputs_
 Players can be involved in the creation of the story and get to read it after.
@@ -25,7 +25,7 @@ Player inputs are bolded in the final story to allow them to see where their inp
 
 ## Multiplication Quiz
 ### Summary:
-A multiplication quiz to help users practice multiplying numbers from 0-12.
+A multiplication quiz to help users practice multiplying numbers from 0-12. Users are given the correct answer if they get the question wrong to help them learn.
 ### Key Features:
 #### _Difficulty Levels_
 There are 4 difficulty levels players can choose from:
@@ -40,14 +40,14 @@ After the quiz is over, users can choose to continue doing a new set of question
 
 ## Snack Name Generator
 ### Summary:
-A snack name generator that asks users questions about what kinds of foods they like eating and gives them a snack food name at the end.
+A snack name generator that asks users questions about what kinds of foods they like eating and gives them a snack food name at the end. Name generator results are Chocolate Icecream, Hot Chocolate, Cinnamon Bun, Pumpkin Pie, Cheesy Nachos, Cheese Puffs, Pretzel, and Trail Mix.
 ### Key Features:
 #### _Endless Mode_
 Users can continue to use the name generator after they have been given a snack food name.
 
 ## Pokemon Evolution Game
 ### Summary:
-A game where players can train, participate in gym battles, rest, and level up their pokemon. Alongside Squirtle, players go on a journey filled with action and eventually fight the final boss.
+A game where players can train, participate in gym battles, rest, and level up their pokemon. Alongside Squirtle, players go on a journey filled with action and can eventually fight the final boss.
 ### Key Features:
 #### _Training_
 Players can choose to spend their day training their pokemon which will level them up by 1 level. Sometimes, a pokemon will do so well training that they level up twice in one day and become happy.
