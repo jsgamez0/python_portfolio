@@ -1,5 +1,5 @@
 # python_portfolio
-A repository containing 5 of my python projects during semester 1.
+A repository containing 5 of my python projects during semester 1 and 2 of my projects during semester 2.
 
 ## Guessing Game
 ### Summary:
