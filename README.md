@@ -66,3 +66,21 @@ Pokemon moods are:
 After reaching a certain level, a pokemon can evolve. The pokemon starts off as Squirtle, with the ability to evolve into Wartortle and then Blastoise.
 #### _Final Stats_
 After the game is over, players get their stats about how they spent their days, how many days they played, and how many battles were both won and lost.
+
+## Magic 8 Ball
+### Summary:
+________________________________
+### Key Features:
+#### ____________________
+
+## Slot Machine
+### Summary:
+________________________________
+### Key Features:
+#### ____________________
+
+## Tetris Score Analysis
+### Summary:
+________________________________
+### Key Features:
+#### ____________________
